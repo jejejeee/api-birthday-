@@ -1,0 +1,40 @@
+<!DOCTYPEhtml >
+< html  lang =" en " >
+<kepala>
+  < meta  karakter =" UTF-8 " >
+  < title > Kartu Ulang Tahun Animasi </ title >
+  < tautan  rel =" stylesheet " href =" ./style.css " >
+
+</kepala>
+<tubuh>
+< div  class =" amplop baru " >
+  < kelas div  =" depan " >
+    < kelas div  =" surat " >
+      < p > Selamat Ulang Tahun </ p >
+      < p > Klik saya </ p >
+    </div>
+  </div>
+  < kelas div  =" kembali " >
+    < kelas div  =" huruf " >
+			< p > Saya harap hari Anda luar biasa. </ p > < p > Dari Dzarel </ p >
+				< p > Selamat Ulang Tahun Sayang❤️‍🩹 </ p >
+
+	< kelas div  =" kotak " >
+		< kelas div  =" kue " >
+			< kelas div  =" lilin " >
+				< div  kelas =" api " > </ div >
+			</div>
+		</div>
+	</div>
+    </div>
+    < div  class =" balik kiri-balik " > </ div >
+    < div  class =" balik kanan-balik " > </ div >
+    < div  class =" flip bottom-flip " > </ div >
+    < div  class =" flip top-flip " > </ div >
+  </div>
+</div>
+  < skrip  src =' https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js ' > </ skrip >
+< skrip  src =' //cdnjs.cloudflare.com/ajax/libs/jquery.spritely/0.6.5/jquery.spritely.min.js ' > </ skrip > < skrip   src =" ./script.js " > </ skrip >
+
+</tubuh>
+</html>
